@@ -1,0 +1,128 @@
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\TcpClientrReader.exe
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\TcpClientrReader.deps.json
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\TcpClientrReader.runtimeconfig.json
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\TcpClientrReader.runtimeconfig.dev.json
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\TcpClientrReader.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\ref\TcpClientrReader.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\TcpClientrReader.pdb
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\obj\Debug\net5.0\TcpClientrReader.csproj.AssemblyReference.cache
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\obj\Debug\net5.0\TcpClientrReader.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\obj\Debug\net5.0\TcpClientrReader.AssemblyInfoInputs.cache
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\obj\Debug\net5.0\TcpClientrReader.AssemblyInfo.cs
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\obj\Debug\net5.0\TcpClientrReader.csproj.CoreCompileInputs.cache
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\obj\Debug\net5.0\TcpClientrReader.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\obj\Debug\net5.0\ref\TcpClientrReader.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\obj\Debug\net5.0\TcpClientrReader.pdb
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\obj\Debug\net5.0\TcpClientrReader.genruntimeconfig.cache
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Humanizer.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\System.Drawing.Common.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\System.Security.Permissions.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\System.Windows.Extensions.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Rakib,IT\P. Project\TcpMessageReader\TcpClientrReader\TcpClientrReader\obj\Debug\net5.0\TcpClientrReader.csproj.CopyComplete
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\TcpClientrReader.exe
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\TcpClientrReader.deps.json
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\TcpClientrReader.runtimeconfig.json
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\TcpClientrReader.runtimeconfig.dev.json
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\TcpClientrReader.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\ref\TcpClientrReader.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\TcpClientrReader.pdb
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Humanizer.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\System.Drawing.Common.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\System.Security.Permissions.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\System.Windows.Extensions.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\obj\Debug\net5.0\TcpClientrReader.csproj.AssemblyReference.cache
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\obj\Debug\net5.0\TcpClientrReader.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\obj\Debug\net5.0\TcpClientrReader.AssemblyInfoInputs.cache
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\obj\Debug\net5.0\TcpClientrReader.AssemblyInfo.cs
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\obj\Debug\net5.0\TcpClientrReader.csproj.CoreCompileInputs.cache
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\obj\Debug\net5.0\TcpClientrReader.csproj.CopyComplete
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\obj\Debug\net5.0\TcpClientrReader.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\obj\Debug\net5.0\ref\TcpClientrReader.dll
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\obj\Debug\net5.0\TcpClientrReader.pdb
+F:\Rakib,IT\TEst and trial\mysms\TcpClientrReader\TcpClientrReader\obj\Debug\net5.0\TcpClientrReader.genruntimeconfig.cache

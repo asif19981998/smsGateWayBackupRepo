@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpClientrReader", "TcpClientrReader\TcpClientrReader.csproj", "{4AC8FEDE-C3F8-432D-AD52-571EAB607BBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AC8FEDE-C3F8-432D-AD52-571EAB607BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC8FEDE-C3F8-432D-AD52-571EAB607BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC8FEDE-C3F8-432D-AD52-571EAB607BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC8FEDE-C3F8-432D-AD52-571EAB607BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6C0EEBD-2169-41AF-A525-9CF3D0B4EE1B}
+	EndGlobalSection
+EndGlobal
